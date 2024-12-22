@@ -23,4 +23,4 @@ A fun and simple Shooter game where you face off against intelligent AI enemies.
 2.More interactive UI will be added in the future to start/end/jump to a new level in the game.
 
 **License:**
-This game is licensed under MTI license.
+This game is licensed under MIT license.
