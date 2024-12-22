@@ -18,7 +18,7 @@ A fun and simple Shooter game where you face off against intelligent AI enemies.
 3.Mouse left click: Shoot
 4.Mouse Right click: Rotate around
 
-**Known issue:**
+**Known Issues:**
 1.The game gives an average of 30 FPS. The other performance bottlenecks will be handled in the upcoming creations.
 2.More interactive UI will be added in the future to start/end/jump to a new level in the game.
 
