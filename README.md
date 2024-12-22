@@ -8,6 +8,8 @@ A fun and simple Shooter game where you face off against intelligent AI enemies.
 3. Upon robber's death, the player can retrieve the stolen treasures.
 
 **Installation:**
+PFB the drive link(using drive to avoid git LFS issues) to download the playable version
+https://drive.google.com/file/d/1p4vrGBBB6nu14USXLTMHoHQU4srjBHWM/view?usp=sharing
 1. Direct X runtime component
 2. Visual c++ runtime component
 3. User will be prompted to install the above components if missing.
